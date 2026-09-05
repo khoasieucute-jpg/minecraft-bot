@@ -1,0 +1,7 @@
+{
+   "name": "minecraft-bot",
+   "version": "1.0.0",
+   "main": "index.js",
+   "dependencies": {
+     "mineflaer": "^4.20.0"
+   }
